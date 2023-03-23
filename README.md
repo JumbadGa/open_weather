@@ -1,6 +1,6 @@
-# open_weather
+# Open Weather App
 
-A new Flutter project.
+A Weather Application using Flutter Framework.
 
 ## Getting Started
 
